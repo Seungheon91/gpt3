@@ -1,5 +1,5 @@
 import "./brand.css";
-import { google, slack, atlassian, dropbox, shopify } from "./import";
+import { google, slack, atlassian, dropbox, shopify } from "./imports";
 
 const Brand = () => {
   return (
